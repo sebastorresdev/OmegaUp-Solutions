@@ -25,13 +25,6 @@ apariciones, debe dársele preferencia al dígito numéricamente menor (en magni
 | 12<br>+1 +4 +4 +9 +7 +7 -9 +7 +4 +7 -4 -4 | 4<br>3 2 |
 | 4<br>+1 +2 +1 +2 | 1<br>2 0 |
 
-<style>
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-</style>
-
 [Prueba el problema en OmegaUp](https://omegaup.com/arena/problem/La-moda-y-sus-signos/#problems)
 
 ---

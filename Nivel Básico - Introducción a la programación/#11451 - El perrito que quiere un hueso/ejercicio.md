@@ -1,9 +1,5 @@
 # Ejercicio: El perrito que quiere un hueso
-<!-- #### Dificultad: Difícil | Publicación: 02/07/18 | Fuente: UAM Azcapotzalco 2018 -->
-
-- **Dificultad:** Facil
-- **Fecha de publicación:** 12/07/20
-- **Fuente:** UAM Azcapotzalco 2020
+#### Dificultad: Difícil | Publicación: 02/07/18 | Fuente: UAM Azcapotzalco 2018
 
 ### Descripcion:
 Estás paseando a tu perrito y acaban de pasar enfrente de una tienda de comida para perros. En la vitrina hay dos huesos de olor y tamaño distintos. Tu perro mentalmente le asignó una calificación del 
